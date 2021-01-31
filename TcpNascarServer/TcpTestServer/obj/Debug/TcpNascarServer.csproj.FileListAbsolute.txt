@@ -1,0 +1,11 @@
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarServer\TcpTestServer\bin\Debug\TcpTestServer.exe.config
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarServer\TcpTestServer\bin\Debug\TcpTestServer.exe
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarServer\TcpTestServer\bin\Debug\TcpTestServer.pdb
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarServer\TcpTestServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarServer\TcpTestServer\bin\Debug\System.Text.Json.dll
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarServer\TcpTestServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarServer\TcpTestServer\obj\Debug\TcpNascarServer.csprojAssemblyReference.cache
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarServer\TcpTestServer\obj\Debug\TcpNascarServer.csproj.CoreCompileInputs.cache
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarServer\TcpTestServer\obj\Debug\TcpNascarServer.csproj.CopyComplete
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarServer\TcpTestServer\obj\Debug\TcpTestServer.exe
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarServer\TcpTestServer\obj\Debug\TcpTestServer.pdb
