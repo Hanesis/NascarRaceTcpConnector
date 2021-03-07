@@ -11,3 +11,15 @@ C:\Users\ja.linhart\source\repos\TcpClient\obj\Debug\netcoreapp3.1\TcpClient.csp
 C:\Users\ja.linhart\source\repos\TcpClient\obj\Debug\netcoreapp3.1\TcpClient.dll
 C:\Users\ja.linhart\source\repos\TcpClient\obj\Debug\netcoreapp3.1\TcpClient.pdb
 C:\Users\ja.linhart\source\repos\TcpClient\obj\Debug\netcoreapp3.1\TcpClient.genruntimeconfig.cache
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarClient\bin\Debug\netcoreapp3.1\TcpClient.exe
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarClient\obj\Debug\netcoreapp3.1\TcpClient.AssemblyInfoInputs.cache
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarClient\obj\Debug\netcoreapp3.1\TcpClient.AssemblyInfo.cs
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarClient\obj\Debug\netcoreapp3.1\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarClient\obj\Debug\netcoreapp3.1\TcpClient.dll
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarClient\obj\Debug\netcoreapp3.1\TcpClient.pdb
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarClient\bin\Debug\netcoreapp3.1\TcpClient.deps.json
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarClient\bin\Debug\netcoreapp3.1\TcpClient.runtimeconfig.json
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarClient\bin\Debug\netcoreapp3.1\TcpClient.runtimeconfig.dev.json
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarClient\bin\Debug\netcoreapp3.1\TcpClient.dll
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarClient\bin\Debug\netcoreapp3.1\TcpClient.pdb
+C:\Users\ja.linhart\Documents\GitHub\NascarRaceTcpConnector\TcpNascarClient\obj\Debug\netcoreapp3.1\TcpClient.genruntimeconfig.cache

@@ -9,13 +9,15 @@ namespace TcpClient
         private static Timer aTimer;
         static void Main(string[] args)
         {
-            const string nickName = "Racer1";
-            Console.WriteLine("Starting Client {0}",nickName);
+            Console.WriteLine("Set racers name:");
+            var nickName = Console.ReadLine();
             
             const string server = "localhost";
 
             try
             {
+                Console.WriteLine("Starting Client for racer {0}", nickName);
+
                 client = new System.Net.Sockets.TcpClient(server, 8080);
 
                 TcpConnector.SendMessage(client, nickName);

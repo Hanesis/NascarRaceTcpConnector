@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ja.linhart\\source\\repos\\TcpClient\\TcpClient.csproj": {}
+    "C:\\Users\\ja.linhart\\Documents\\GitHub\\NascarRaceTcpConnector\\TcpNascarClient\\TcpClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ja.linhart\\source\\repos\\TcpClient\\TcpClient.csproj": {
+    "C:\\Users\\ja.linhart\\Documents\\GitHub\\NascarRaceTcpConnector\\TcpNascarClient\\TcpClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ja.linhart\\source\\repos\\TcpClient\\TcpClient.csproj",
+        "projectUniqueName": "C:\\Users\\ja.linhart\\Documents\\GitHub\\NascarRaceTcpConnector\\TcpNascarClient\\TcpClient.csproj",
         "projectName": "TcpClient",
-        "projectPath": "C:\\Users\\ja.linhart\\source\\repos\\TcpClient\\TcpClient.csproj",
+        "projectPath": "C:\\Users\\ja.linhart\\Documents\\GitHub\\NascarRaceTcpConnector\\TcpNascarClient\\TcpClient.csproj",
         "packagesPath": "C:\\Users\\ja.linhart\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ja.linhart\\source\\repos\\TcpClient\\obj\\",
+        "outputPath": "C:\\Users\\ja.linhart\\Documents\\GitHub\\NascarRaceTcpConnector\\TcpNascarClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -29,7 +29,7 @@ namespace TcpTestServer
             }
             
             Console.WriteLine("Server is running");
-
+            
             var clients = new Dictionary<TcpClient, Racer>();
             var grid = new List<Racer>();
 
@@ -54,9 +54,9 @@ namespace TcpTestServer
                 }
             }
 
-            Console.WriteLine("Grid is full and ready:");
             foreach (var client in clients)
             {
+                TcpConnector.SendMessage(client.Key, "Grid is full and ready:");
                 var some = "";
                 foreach (var racer in grid)
                 {

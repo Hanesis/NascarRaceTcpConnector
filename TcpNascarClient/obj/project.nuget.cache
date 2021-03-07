@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oxG2xZpSh1QjrUFAzr49/Y1XynorpbbIbaG1uVFfp4phSAq/8dAEDlZDYdUO3zImKIULaEIVKpGTYcd5fyIpyw==",
+  "dgSpecHash": "JrpviXd0BgxGCxPRa2v72QLHjca3yKXwpO3wJnXAYfRrWJsN88xDGNdmtsOywj7XyWRwO83vkuFPaJEw3sgdYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ja.linhart\\source\\repos\\TcpClient\\TcpClient.csproj",
+  "projectFilePath": "C:\\Users\\ja.linhart\\Documents\\GitHub\\NascarRaceTcpConnector\\TcpNascarClient\\TcpClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
